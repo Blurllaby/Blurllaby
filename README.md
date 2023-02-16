@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blurllaby
 - 👀 I’m 3rd year Fpt University
-- 🌱 I’m currently learning Web Application Penetration
+- 🌱 I’m currently learning Application Pentester
 - ✨ https://www.root-me.org/Blurllaby?lang=en
 - ✨ My [write-up](https://github.com/Blurllaby/WriteUp_WebServerPentesting-)
 - 📫 Reach me via T.X.H.Duong@gmail.com
